@@ -2,9 +2,9 @@
     "name": "gogoanime-api",
     "version": "1.0.0",
     "description": "Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime",
-    "main": "lib/api.js",
     "type": "module",
     "types": "lib/types/index.d.ts",
+    "main": "lib/api.js",
     "scripts": {
         "start": "node lib/api.js",
         "dev": "nodemon lib/api.js",
